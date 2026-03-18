@@ -1,4 +1,4 @@
-# 202279500-ShathaAlbaraiki-assignment1
+# 202279500-ShathaAlbaraiki-assignment2
 # Shatha Albaraiki - Personal Portfolio - Assignment 2
 
 ## Project Description

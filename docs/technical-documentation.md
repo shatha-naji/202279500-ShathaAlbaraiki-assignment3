@@ -75,7 +75,7 @@ Each project card has a `data-category` attribute. JavaScript reads this attribu
 This feature makes the page more interactive and helps the user focus on relevant content.
 
 ## 9. API feature 
-Music Explorer 
+Music Explorer
 
 A Music Explorer feature was added using the iTunes Search API.
 
@@ -148,7 +148,7 @@ On smaller screens:
 Current limitations include:
 - the contact form does not send data to a real backend service
 - project demo links are placeholders
-- the fade-in animation runs on page load only, not on scroll
+
 
 ## 16. Future Improvements
 Possible future enhancements include:
