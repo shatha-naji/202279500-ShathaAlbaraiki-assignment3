@@ -67,7 +67,7 @@ The website presents my background, projects, skills, and contact information in
 ## How to Run Locally
 
 Clone the repository:
-git clone 
+git clone https://github.com/shatha-naji/202279500-ShathaAlbaraiki-assignment3.git
 
 Open the project folder in VS Code.
 
@@ -89,8 +89,8 @@ A detailed explanation is available in:
 docs/ai-usage-report.md
 
 ## Live Demo
-https://your-link-here
-
+ https://shatha-naji.github.io/202279500-ShathaAlbaraiki-assignment3/
+ 
 ## Author
 Shatha Albaraiki  
 Software Engineering Student - KFUPM  
